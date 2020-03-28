@@ -1,7 +1,7 @@
 #Zertify
 A certification generator WebApp with template, created in collaboration with Edera - online course company.
 
-[Click to visit App in Progress](https://zertify.netlify.com/)
+[Click to visit the App and download your certificate!](https://zertify.netlify.com/)
 
 [Backend](https://github.com/nelidiakonidze/zerify-server)
 
